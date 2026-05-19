@@ -1,4 +1,4 @@
-# UE24CS645BC2_-PES1PG25CS050-_Fashion_MNIST_CNN
+# UE24CS645BC2_-PES1PG25CS074-_Fashion_MNIST_CNN
 
 ## Project Overview
 A Convolutional Neural Network (CNN) built from scratch using only NumPy
