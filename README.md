@@ -23,5 +23,5 @@ Fashion MNIST — 70,000 grayscale 28x28 images across 10 clothing classes
 3. Training takes approximately 3–5 minutes
 
 ## Author
-Name: Pranathi T
-USN: PES1PG25CS050
+Name: Varshini V
+USN: PES1PG25CS074
